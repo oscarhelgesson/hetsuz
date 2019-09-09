@@ -1,2 +1,2 @@
 # hetsuz
-This is the project repository for Hetsuz!!!!!
+A Object-oriented project which aims to simplify the everyday use of Calendar apps. 
